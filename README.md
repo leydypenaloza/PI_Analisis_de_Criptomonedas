@@ -1,7 +1,7 @@
 
 # <h1 align=center> **PI ANÁLISIS DE CRIPTOMONEDAS CON API COINGECKO** </h1>
 ## **_By: Leydy Lucena Peñaloza Rojas_**
-<img src="/Imagenes/Autora_Leydy_Penaloza.png" alt="Banner" width="70px" height="auto" />
+<img src="Imagenes/Autora_Leydy_Penaloza.png" alt="Banner" width="70px" height="auto" />
 
 
 # Proyecto de Análisis de Criptomonedas
